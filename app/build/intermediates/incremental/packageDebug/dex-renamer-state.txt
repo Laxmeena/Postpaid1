@@ -1,0 +1,7 @@
+#Wed Oct 05 09:34:49 IST 2016
+base.0=/home/prakash/DriveB/AndroidStudioProjects/Postpaid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3442b90209131465ed9bf1f5caa95174bc815099
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/prakash/DriveB/AndroidStudioProjects/Postpaid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c5ff79a3dffec8c6a234c9b2a127be0ab8b3452/classes.dex
+base.1=/home/prakash/DriveB/AndroidStudioProjects/Postpaid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c5ff79a3dffec8c6a234c9b2a127be0ab8b3452
+file.0=/home/prakash/DriveB/AndroidStudioProjects/Postpaid1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3442b90209131465ed9bf1f5caa95174bc815099/classes.dex

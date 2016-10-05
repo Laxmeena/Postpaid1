@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@color/Aqua"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true" >
+
+    <TextView
+        android:id="@+id/left_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="5dip"
+        android:gravity="center"
+        android:text="Symbol"
+        />
+    <TextView
+        android:id="@+id/right_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="5dip"
+        android:gravity="center"
+        android:text="Price"
+        />
+</LinearLayout>
+
+</RelativeLayout>
